@@ -6,17 +6,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillonjeu" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=sillonjeu" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://velog.io/@sillonjeu/posts">
-    <img src="https://velog-readme-stats.vercel.app/api?name=sillonjeu" />
   </a>
 </p>
 
@@ -26,6 +17,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://velog.io/@sillonjeu/posts">
+    <img src="https://velog-readme-stats.vercel.app/api?name=sillonjeu" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
