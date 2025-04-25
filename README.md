@@ -35,7 +35,7 @@
       <td>🥉 카카오 & 유니브 2기 벚꽃톤 우수상<br>🥇 카카오 & 유니브 2기 제주톤 대상</td>
     </tr>
     <tr>
-      <td><a href="https://therapeutic-lifeboat-fd6.notion.site/ER-SENTINEL-4dff43fc76be45bcadeac1995cd29d09">SW개발보안 경진대회</a></td>
+      <td><a href="https://therapeutic-lifeboat-fd6.notion.site/ER-SENTINEL-4dff43fc76be45bcadeac1995cd29d09">응급실 혼잡도 알리미</a></td>
       <td>2023.06 ~ 2023.08</td>
       <td>프론트엔드(React), 기획</td>
       <td>제 10회 소개딩 본선 진출</td>
