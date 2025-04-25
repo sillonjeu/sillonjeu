@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A273FF&height=200&section=header" />
 </p>
 
-<h2 align="center">👋 자기소개</h2>
+<h1 align="center">👋 자기소개</h1>
 <p align="center">
   안녕하세요! 저는 프로젝트에서 디딤돌 사이를 채우는 개발자, 여은동입니다.
   <br>
@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<h2 align="center">🚀 주요 활동</h2>
+<h1 align="center">🚀 주요 활동</h1>
 
 <table align="center">
   <thead>
