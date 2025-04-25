@@ -2,6 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A273FF&height=200&section=header" />
 </p>
 
+<h2 align="center">✨ About Me</h2>
+
+<p align="center">
+  안녕하세요! 앱 개발 중심으로 다양한 기술을 공부하고 있는 개발자 여은동입니다.<br/>
+  flutter에 자신있어요 😄
+</p>
+<br><br><br>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillonjeu" />
