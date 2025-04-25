@@ -26,13 +26,13 @@
       <td><a href="https://therapeutic-lifeboat-fd6.notion.site/d4d1d3038c08411da6a9adf93a48eefb">인생책장</a></td>
       <td>2024.03 ~ 2025.02</td>
       <td>프론트엔드(Flutter)</td>
-      <td>동국대 산학연계프로젝트1 장려상<br>동국대 산학연계프로젝트2 장려상<br>동국대 겨울 종합설계 발표회 최우수상<br>COSS In-JEJU 챌린지 대상<br>ITU 제네바 본부 학술 연수</td>
+      <td>🥉 동국대 산학연계프로젝트1 장려상<br>🥉 동국대 산학연계프로젝트2 장려상<br>🥈 동국대 겨울 종합설계 발표회 최우수상<br>🥇 COSS In-JEJU 챌린지 대상<br>✈️ ITU 제네바 본부 학술 연수</td>
     </tr>
     <tr>
       <td><a href="https://therapeutic-lifeboat-fd6.notion.site/96af7c8ced604db2814ca890a44181ba">봄멍</a></td>
       <td>2024.02 ~ 2024.08</td>
       <td>프론트엔드(Flutter)</td>
-      <td>카카오 & 유니브 2기 벚꽃톤 우수상<br>카카오 & 유니브 2기 제주톤 대상</td>
+      <td>🥉 카카오 & 유니브 2기 벚꽃톤 우수상<br>🥇 카카오 & 유니브 2기 제주톤 대상</td>
     </tr>
     <tr>
       <td><a href="https://therapeutic-lifeboat-fd6.notion.site/ER-SENTINEL-4dff43fc76be45bcadeac1995cd29d09">SW개발보안 경진대회</a></td>
@@ -44,7 +44,7 @@
       <td><a href="https://therapeutic-lifeboat-fd6.notion.site/662377f11b6c4fada782c8868ba744ed">SW중심대학 공동 AI 경진대회 2023</a></td>
       <td>2023.06 ~ 2023.08</td>
       <td>Preprocessing</td>
-      <td>SW중심대학협의회 회장상</td>
+      <td>🥉 SW중심대학협의회 회장상</td>
     </tr>
   </tbody>
 </table>
