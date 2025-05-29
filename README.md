@@ -10,14 +10,15 @@
 </p>
 <br>
 
-<h1 align="center">
-  🚀 주요 활동
-  <a href="https://sillonjeu-portfolio.vercel.app/" target="_blank" style="display: inline-block; margin-left: 12px; transform: scale(0.9); transform-origin: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap;">
+  <h1 style="margin: 0; font-size: 2em;">🚀 주요 활동</h1>
+  <a href="https://sillonjeu-portfolio.vercel.app/" target="_blank" style="display: inline-block;">
     <img 
       src="https://img.shields.io/badge/My Portfolio-%236F42C1?style=for-the-badge&logo=vercel&logoColor=white" 
-      alt="My Portfolio" />
+      alt="My Portfolio"
+      style="height: 38px; vertical-align: middle;" />
   </a>
-</h1>
+</div>
 
 <table align="center">
   <thead>
