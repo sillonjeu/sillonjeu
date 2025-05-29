@@ -10,7 +10,14 @@
 </p>
 <br>
 
-<h1 align="center">🚀 주요 활동</h1>
+<h1 align="center">
+  🚀 주요 활동
+  <a href="https://sillonjeu-portfolio.vercel.app/" target="_blank" style="display: inline-block; margin-left: 12px; transform: scale(0.9); transform-origin: center;">
+    <img 
+      src="https://img.shields.io/badge/My Portfolio-%236F42C1?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="My Portfolio" />
+  </a>
+</h1>
 
 <table align="center">
   <thead>
